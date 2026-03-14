@@ -2,6 +2,10 @@
 
 AwakeKeeper is a small Windows tray app whose job is simple: keep your computer awake when you need it to stay awake, and get out of the way when you do not.
 
+Download the latest Windows executable here:
+
+[AwakeKeeper.exe](https://github.com/AnastaKos/Awake-Keeper/releases/latest/download/AwakeKeeper.exe)
+
 It is for situations like:
 - a dashboard you need visible all afternoon
 - a presentation laptop that should not decide to nap mid-meeting
@@ -221,13 +225,13 @@ python -m pip install -r requirements.txt
 Build:
 
 ```powershell
-pyinstaller awake_keeper.spec
+python -m PyInstaller AwakeKeeper.spec
 ```
 
 The packaged executable ends up in:
 
 ```text
-dist\awake_keeper.exe
+dist\AwakeKeeper.exe
 ```
 
 ## Dependencies
