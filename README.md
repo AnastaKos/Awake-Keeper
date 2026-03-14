@@ -2,9 +2,9 @@
 
 AwakeKeeper is a small Windows tray app whose job is simple: keep your computer awake when you need it to stay awake, and get out of the way when you do not.
 
-Download the latest Windows executable here:
+Download the Windows executable here:
 
-[AwakeKeeper.exe](https://github.com/AnastaKos/Awake-Keeper/releases/latest/download/AwakeKeeper.exe)
+[AwakeKeeper.exe](https://github.com/AnastaKos/Awake-Keeper/blob/main/dist/AwakeKeeper.exe)
 
 It is for situations like:
 - a dashboard you need visible all afternoon
